@@ -26,6 +26,7 @@ It simulates a realistic filesystem, detects suspicious commands, and provides a
 - cryptography
 - twisted
 - psutil
+- bcrypt
 
 ## License
 
